@@ -6,9 +6,9 @@ sections:
     type: section_hero
     title: Engineering software with creativity
     content: >
-      A man who works with his hands is a laborer; a man who works with his
+      "A man who works with his hands is a laborer; a man who works with his
       hands and his brain is a craftsman; but a man who works with his hands and
-      his brain and his heart is an artist.
+      his brain and his heart is an artist."
 
 
       **Louis Nizer**
