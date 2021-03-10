@@ -17,7 +17,7 @@ params:
       - label: Blog
         url: /blog/
         style: link
-      - label: Style Guide
+      - label: SKILLS
         url: /style-guide/
         style: link
       - label: About
