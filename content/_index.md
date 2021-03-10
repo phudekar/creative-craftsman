@@ -8,10 +8,7 @@ sections:
     content: >
       "A man who works with his hands is a laborer; a man who works with his
       hands and his brain is a craftsman; but a man who works with his hands and
-      his brain and his heart is an artist."
-
-
-      **Louis Nizer**
+      his brain and his heart is an artist." - **Louis Nizer**
   - section_id: about
     type: section_content
     title: About
