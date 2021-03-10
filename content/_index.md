@@ -17,10 +17,10 @@ sections:
     title: About
     content: >
       I am a software craftsman who engineers software solutions with passion
-      and care. In general, I am an agile practitioner, full stack developer and
-      DIY enthusiast. I like to take pragmatic approach to solve business
+      and care. By profession I am an agile practitioner, full stack developer
+      and DIY enthusiast. I like to take pragmatic approach to solve business
       problems with the strong focus on fundamentals of software development
-      while keeping an eye on cutting edge technologies. 
+      while keeping an eye on cutting edge technologies.
     actions:
       - label: Contact Me
         url: /contact
