@@ -2,7 +2,7 @@ title: Stackbit Fresh Theme
 baseURL: /
 params:
   layout_style: overflow
-  palette: violet
+  palette: blue
   header:
     title: Creative Craftsman
     tagline: Pradip Hudekar
