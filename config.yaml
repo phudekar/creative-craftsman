@@ -6,7 +6,7 @@ params:
   header:
     title: Creative Craftsman
     tagline: Pradip Hudekar
-    profile_img: images/avatar.png
+    profile_img: images/pradip.jpg
     profile_img_alt: Author avatar
     background: dark
     has_nav: true
